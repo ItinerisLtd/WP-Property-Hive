@@ -1,5 +1,5 @@
 {
-  "name": "ItinerisLtd/WP-Property-Hive",
+  "name": "ItinerisLtd/propertyhive",
   "type": "wordpress-plugin",
   "require": {
     "php": ">=5.6",
